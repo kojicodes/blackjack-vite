@@ -8,6 +8,7 @@ import {
   getScore,
 } from "./usecases/index";
 
+// Arreglo para cartas y puntuaciones de los jugadores
 let deck = [];
 let scores = [];
 
