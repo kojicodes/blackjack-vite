@@ -38,11 +38,17 @@ body {
   background-color: #222222;
   font-size: 23pt;
   padding-left: 10%;
+  padding-bottom: 1%;
 }
 
 .score-title {
   padding-top: 4%;
-  padding-right: 20%;
+  padding-right: 15%;
+}
+
+.points {
+  padding-bottom: 1%;
+  padding-right: 10%;
 }
 
 /* Clase de id */
